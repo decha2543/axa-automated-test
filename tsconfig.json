@@ -30,7 +30,7 @@
 		"noUncheckedSideEffectImports": true,
 		"paths": {
 			"@/*": [
-				"./src/*"
+				"./cypress/*"
 			]
 		}
 	},
