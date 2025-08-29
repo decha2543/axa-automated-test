@@ -12,6 +12,7 @@
     "@cypress/webpack-preprocessor": "^7.0.1",
     "@types/node": "^22.15.29",
     "cypress": "^15.0.0",
+    "cypress-xpath": "^2.0.1",
     "prettier": "^3.5.3",
     "typescript": "^5.9.2"
   }
