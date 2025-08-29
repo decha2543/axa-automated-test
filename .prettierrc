@@ -1,0 +1,27 @@
+{
+	"arrowParens": "always",
+	"bracketSameLine": false,
+	"bracketSpacing": true,
+	"endOfLine": "crlf",
+	"importOrder": [
+		"^@playwright",
+		"<THIRD_PARTY_MODULES>",
+		"^@/tests/(.*)$",
+		"^@/constants/(.*)$",
+		"^./(.*)$",
+		"^@/interfaces/(.*)$"
+	],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"plugins": [
+		"prettier-plugin-tailwindcss",
+		"@trivago/prettier-plugin-sort-imports"
+	],
+	"printWidth": 100,
+	"proseWrap": "always",
+	"semi": true,
+	"singleQuote": true,
+	"tabWidth": 2,
+	"trailingComma": "all",
+	"useTabs": true
+}
