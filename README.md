@@ -20,4 +20,4 @@ npm run cypress:open
 ```
 
 ### NOTE:
-*** The test is incomplete because of the problem base url cannot open and show up status 404
+*** The test is incomplete because of base url cannot open and show up status 404
